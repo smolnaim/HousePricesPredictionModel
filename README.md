@@ -1,7 +1,7 @@
 # House Prices Prediction Model
 
 ## Overview
-This project involves predicting house prices using a Random Forest Model. The model is built using variables that have a correlation of 0.6 or higher with the target variable, `SalePrice`. The project includes an exploratory data analysis (EDA) to select the most relevant features for training the model.
+In this project I predict house prices using a Random Forest Model. The model is built using variables that have a correlation of 0.6 or higher with the target variable, `SalePrice`. The project also includes an exploratory data analysis (EDA) to select the most relevant features for training the model.
 
 ## Table of Contents
 - [Installation](#installation)
